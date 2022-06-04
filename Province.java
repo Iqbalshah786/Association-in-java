@@ -20,5 +20,6 @@ public class Province {
     public void setCities(ArrayList cities){
         this.cities = cities;
     }
+    //just a comment
 
 }
